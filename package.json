@@ -1,5 +1,5 @@
 {
-  "name": "is-empty",
+  "name": "@hadesz/is-empty",
   "version": "1.0.0",
   "description": "A lightweight repository to verifies the data is empty",
   "main": "index.js",
